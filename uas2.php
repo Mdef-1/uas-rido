@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-    <form action="control.php" method="post">
+    <form action="uas1.php" method="post">
         <center><img src="img/yayasan assalaam.png" alt="" class="mt-3"></center>
         <h3 align="center" class="">PENGGAJIHAN</h3>
         <h3 align="center" class="">GURU/KARYAWAN YAYASAN ASSALAAM</h3>
